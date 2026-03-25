@@ -10,3 +10,5 @@
 VOR’un çalışma prensibi iki sinüs dalgasına dayalıdır: referans sinyali (S_ref) ve değişken sinyal (S_var). Uçağın bulunduğu manyetik kuzeye göre olan açısındaki () fonksiyonel temsil şöyledir:
 S_ref (t)=sin⁡(2πft)  S_var (t)=sin⁡〖(2πft-θ)〗
 Bu iki sinüs dalgası arasındaki faz farkı ölçülerek de uçağın hangi radyalde olduğu saptanabilir.
+
+<img width="750" height="572" alt="Screenshot 2026-03-25 at 22 47 38" src="https://github.com/user-attachments/assets/9a3e6fe6-14a6-4874-afd8-1f6793dd5a4c" />
